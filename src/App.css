@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header a {
+  margin: 1rem;
+}
